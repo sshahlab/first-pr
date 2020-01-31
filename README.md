@@ -7,7 +7,9 @@
 6. `git commit -am “added <your_name>”`
 7. `git push origin master`
 8. Go to your forked repository on GitHub and click on **Pull Request**
-9. Raise the pull request!
+9. Raise the pull request
+10. Wait for us to merge it
+11. Celebrate your first PR!
 
 ### List of names
 Rohit Sanjay
