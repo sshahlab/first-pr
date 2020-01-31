@@ -1,5 +1,7 @@
 # Your first contribution/pull-request
 
+## Follow the steps below
+
 1. Fork this repository
 2. Clone your forked repository to your local system by running `git clone https://github.com/<username>/first-pr.git`  
 4. `cd first-pr`
